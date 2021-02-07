@@ -2,7 +2,7 @@
 
 ## My skills:
 
-:[Android](https://img.shields.io/badge/Android-300C84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
+[Android](https://img.shields.io/badge/Android-300C84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
 
 ## Find me here:
 
