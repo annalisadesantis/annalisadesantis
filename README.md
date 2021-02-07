@@ -1,8 +1,8 @@
-# 👋 Hello my name is Annalisa De Santis
-
-## I'm a Jr. Full Stack Web Developer.
+# 👋 Hello, I'm a Jr. Full Stack Web Developer.
 
 ## My skills:
+
+:[Android](https://img.shields.io/badge/Android-300C84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)
 
 ## Find me here:
 
