@@ -1,6 +1,6 @@
-# 👋 Hello, I'm a Jr. Full Stack Web Developer.
+## 👋 Hello, I'm a Jr. Full Stack Web Developer.
 
-## My skills:
+### My Skills:
 
 ![Html](https://img.shields.io/badge/Html-ff0000?style=for-the-badge&logo=html&logoColor=white&labelColor=101010)
 ![Css](https://img.shields.io/badge/Css-0000cd?style=for-the-badge&logo=css&logoColor=white&labelColor=101010)
@@ -12,7 +12,7 @@
 ![Mysql](https://img.shields.io/badge/Mysql-ffa500?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
 ![Laravel](https://img.shields.io/badge/Laravel-f72c1f?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)
 
-## Follow me:
+### Follow me:
 
 [LinkedIn](https://www.linkedin.com/in/annalisa-de-santis-354a7b205)
 
