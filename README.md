@@ -3,7 +3,7 @@
 ## My skills:
 
 ![HTML](https://img.shields.io/badge/HTML-300C84?style=for-the-badge&logo=HTML&logoColor=white&labelColor=101010)
-![Javascrit](https://img.shields.io/badge/Javascript-300C84?style=for-the-badge&logo=javascript&logoColor=white&labelColor=fff700)
+![Javascrit](https://img.shields.io/badge/Javascript-fff700?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 
 ## Find me here:
 
