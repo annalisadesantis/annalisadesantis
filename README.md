@@ -2,4 +2,7 @@
 
 ## I'm a Jr. Full Stack Web Developer.
 
-## Skills:
+## My skills:
+
+## Find me here:
+
