@@ -12,7 +12,7 @@
 ![Mysql](https://img.shields.io/badge/Mysql-ffa500?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
 ![Laravel](https://img.shields.io/badge/Laravel-f72c1f?style=for-the-badge&logo=laravel&logoColor=white&labelColor=101010)
 
-## Find me here:
+## Follow me:
 
 [LinkedIn](https://www.linkedin.com/in/annalisa-de-santis-354a7b205)
 
