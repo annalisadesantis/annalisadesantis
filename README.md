@@ -6,5 +6,5 @@
 
 ## Find me here:
 
--[LinkedIn](https://www.linkedin.com/in/annalisa-de-santis-354a7b205)
+# [LinkedIn](https://www.linkedin.com/in/annalisa-de-santis-354a7b205)
 
