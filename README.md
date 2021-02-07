@@ -7,7 +7,7 @@
 ![Javascrit](https://img.shields.io/badge/Javascript-fff700?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 ![Mysql](https://img.shields.io/badge/Mysql-ffa500?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
 ![Jquery](https://img.shields.io/badge/Jquery-0000cd?style=for-the-badge&logo=jquery&logoColor=white&labelColor=101010)</br>
-![Vue](https://img.shields.io/badge/Vue-3fb27f?style=for-the-badge&logo=vue&logoColor=white&labelColor=101010)
+![Vue.js](https://img.shields.io/badge/Vue.js-3fb27f?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=101010)
 
 ## Find me here:
 
