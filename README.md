@@ -14,5 +14,5 @@
 
 ### Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/annalisa-de-santis-354a7b205)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/annalisa-de-santis-annalisadesantis1991)
 
